@@ -25,11 +25,7 @@
 
 <p>   https://www.facebook.com/profile.php?id=100001232256659&mibextid=ZbWKwL    </p>
 
-<video width="640" height="360" controls> <source src=" " type="video/mp4"> 
 
-
-
-</video>
 
 
  
