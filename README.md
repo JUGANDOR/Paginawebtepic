@@ -28,7 +28,7 @@
 <p>Martes 23 de julio 2024 estaba el viendo a muchas hacer futbol cuando me recogieron le dije cual era su carro</p>
 
 
-<p>se donde vive </p>
+<p>el habita por la c.basilio badillo y la calle tenochtitlan </p>
  
 
 
